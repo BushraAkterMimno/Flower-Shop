@@ -106,6 +106,7 @@ nav img{
     margin-right: -100px;
 }
 
+
 /* card styles */
 
 .card-heading h1{
@@ -149,6 +150,7 @@ nav img{
     font-size: 22px;
     margin-top: -15px;
 }
+
 
 /* plants lover styles */
 
@@ -197,6 +199,7 @@ nav img{
     padding-bottom: 20px;
     padding-right: 80px;
 }
+
 
 /* latest deal styles */
 
@@ -447,6 +450,7 @@ footer{
         margin-left: -100px;
     }
 
+
     /* plants styles */
 
     .card-heading{
@@ -492,6 +496,7 @@ footer{
         width: 90%;
     }
 
+
     /* plants lover styles */
 
     .plants-lover-section{
@@ -517,7 +522,7 @@ footer{
     }
 
 
-/* latest deal styles */
+    /* latest deal styles */
 
     .deal-header h1{
         font-size: 24px;
@@ -558,7 +563,7 @@ footer{
     }
 
 
-/* join styles */
+    /* join styles */
 
     .join-text{
         padding: 110px 80px;
@@ -577,7 +582,7 @@ footer{
     }
 
 
-/* footer styles */
+    /* footer styles */
 
     footer{
         display: inline-block;
